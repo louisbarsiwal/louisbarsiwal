@@ -2,9 +2,11 @@
 
 
 
-- 🔭 I’m currently working on my Developer Profile 
+- 🔭 I’m currently working on My Developer Profile 
 - 🌱 I’m currently learning full stack development
-- 💬 Ask me about Web Development
+- 💬 Ask me about Web Design
+- 🤝🏻 I’m looking to collaborate on web project
 - 📫 How to reach me: louisbarsiwal@gmail.com
+- 🔗 My Codepen profile: https://codepen.io/louis_barsiwal
 
 
