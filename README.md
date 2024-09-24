@@ -7,6 +7,5 @@
 - 💬 Ask me about Web Design
 - 🤝🏻 I’m looking to collaborate on web project
 - 📫 How to reach me: louisbarsiwal@gmail.com
-- 🔗 My Codepen profile: https://codepen.io/louis_barsiwal
 
 
